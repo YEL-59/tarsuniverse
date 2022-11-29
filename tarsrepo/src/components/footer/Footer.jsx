@@ -24,14 +24,8 @@ function Footer() {
 
 						<li className="md:text-sm text-xsm mb-2 hover:text-blue-900">
 							- Home</li>
-
-
-
-
 						<li className="md:text-sm text-xsm mb-2 hover:text-blue-900">- Product Details</li>
-
-
-						<li className="md:text-sm text-xsm mb-2 hover:text-blue-900">
+                                                <li className="md:text-sm text-xsm mb-2 hover:text-blue-900">
 							- Career</li>
 						<li className="md:text-sm text-xsm mb-2 hover:text-blue-900">
 							- About us</li>
