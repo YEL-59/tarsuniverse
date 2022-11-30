@@ -6,7 +6,15 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-
+.bg-img2{
+    
+  background-image: url('../assets/background/7.jpg');
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+}
 .element {
   align-items: center;
   background: linear-gradient(-45deg, rgba(0,0,0,0.22), rgba(255,255,255,0.25));

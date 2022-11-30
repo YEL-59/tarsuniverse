@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "Company",
+		"subname": [
+			{ "id": 1, "name": "About Us", "link": "/" },
+			{ "id": 2, "name": "Contact", "link": "/" },
+			{ "id": 3, "name": "Blog", "link": "/" }
+		]
+	},
+	{
+		"id": 2,
+		"name": "Solution",
+		"subname": [
+			{ "id": 1, "name": "For Travelers", "link": "/" },
+			{ "id": 2, "name": "For Senior Management", "link": "/" },
+			{ "id": 3, "name": "For Travel Organizers", "link": "/" },
+			{ "id": 4, "name": "For developers", "link": "/" }
+		]
+	},
+	{
+		"id": 3,
+		"name": "Help & Policies",
+		"subname": [
+			{ "id": 1, "name": "Privacy Policy", "link": "/" },
+			{ "id": 2, "name": "Terms & Condition", "link": "/" },
+			{ "id": 3, "name": "Refunds & Return Policy", "link": "/" }
+		]
+	},
+	{
+		"id": 4,
+		"name": "Get in touch",
+		"subname": [
+			{ "id": 1, "name": "+880177-000000", "link": "/" },
+			{ "id": 2, "name": "support@mastermind.com", "link": "/" }
+		]
+	}
+]
