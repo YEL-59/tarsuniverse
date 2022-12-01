@@ -19,11 +19,11 @@ function Footer() {
 						<h1>TARS BINARY</h1>
 						<h3>HIGHER AUTHORITY OF TARS PROJECTS</h3>
 						
-						<p>Level 4 Vision 2021 Tower 1</p>
-						<p>Software Technology Park</p>
-						<p>Karwan Bajar Dhaka 1215</p>
-						<p>Contact@tarsbinary.net</p>
-						<p>+0081714065174</p>
+						<p className='text-sm '>Level 4 Vision 2021 Tower 1</p>
+						<p className='text-sm '>Software Technology Park</p>
+						<p className='text-sm '>Karwan Bajar Dhaka 1215</p>
+						<p className='text-sm '>Contact@tarsbinary.net</p>
+						<p className='text-sm '>+0081714065174</p>
 					</div>
 
 					<ul className="md:w-[300px]  font-medium ">
@@ -72,13 +72,13 @@ function Footer() {
 
 			</div>
 			
-			<div className='flex flex-row justify-center mb-5 gap-5 '>
+			<div className='flex flex-row justify-center gap-5 '>
 					<p>Privacy&Policy</p>
 					<p>Legal Papers</p>
 					<p>Documents</p>
 					<p>Apply for job</p>
 					</div>
-					<hr />
+				
 			<div className=" text-xsm  text-center bg-black w-full">
 				<div className="flex flex-col lg:flex-row text-white  justify-evenly items-center">
 					<div className="text-center py-2">Copyright &copy; {d.getFullYear()} All right reserved <a href="https://github.com/YEL-59">.</a> </div>

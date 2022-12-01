@@ -14,7 +14,7 @@ export const links = [
   {
     name: "Director Notes",
     submenu: false,
-    menuLink: "/project",
+    menuLink: "/About",
     sublinks: [
       {
         Head: "",
@@ -68,5 +68,4 @@ export const links = [
   //     },
   //   ],
   // },
-
 ];

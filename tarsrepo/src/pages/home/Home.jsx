@@ -173,7 +173,7 @@ function Home() {
             </div>
           </div>
         </div>
-       
+
         <div className="flex flex-col lg:flex-row gap-5 justify-center mb-10">
           <div>
             <div class="flex justify-center">
@@ -206,7 +206,7 @@ function Home() {
             </div>
           </div>
           <div>
-            <div class="flex justify-center" >
+            <div class="flex justify-center">
               <div class="rounded-lg shadow-lg bg-white max-w-lg">
                 <a href="#!">
                   <img
