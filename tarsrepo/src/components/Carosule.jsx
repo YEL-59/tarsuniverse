@@ -80,7 +80,7 @@ function Carosule() {
 									src={item.img}
 									alt="Sunset in the mountains"
 								/>
-                                <div className="p-2 bg-red-600   text-[#523970] text-center">
+                                <div className="p-2 bg-red-600   text-[#f6f5f8] font-bold text-center">
 								<h1 className=" text-md mb-1 font-bold text-center">{item.title}</h1>
 								<div className="mb-2 " >
 								

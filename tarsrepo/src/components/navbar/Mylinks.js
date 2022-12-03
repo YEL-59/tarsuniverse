@@ -14,7 +14,7 @@ export const links = [
   {
     name: "Director Notes",
     submenu: false,
-    menuLink: "/About",
+    menuLink: "/Aboutt",
     sublinks: [
       {
         Head: "",
@@ -25,7 +25,7 @@ export const links = [
   {
     name: "Project",
     submenu: false,
-    menuLink: "/blog",
+    menuLink: "/blogt",
     sublinks: [
       {
         Head: "",
@@ -49,7 +49,7 @@ export const links = [
   {
     name: "Contact Us",
     submenu: false,
-    menuLink: "/contact",
+    menuLink: "/contactt",
     sublinks: [
       {
         Head: "",
