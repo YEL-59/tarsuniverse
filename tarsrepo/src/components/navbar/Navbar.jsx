@@ -40,10 +40,10 @@ function Navbar() {
 							
 								<LocalMallIcon /> <a href="tel:+88001748885444p123"></a> 
 						</div>
-						<div class="flex items-center p-5 gap-2">
+						{/* <div class="flex items-center p-5 gap-2">
 							
 								<PersonIcon /> <a href="tel:+88001748885444p123"></a> 
-						</div>
+						</div> */}
 					</ul> 
 					
 
