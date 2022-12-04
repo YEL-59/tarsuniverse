@@ -11,7 +11,7 @@ const Navlinks = () => {
 		<>
 			{links.map((link) => (
 				<div>
-					<div className="px-2 text-left lg:cursor-pointer group rounded hover:text-white hover:bg-blue-900 hover:bg-opacity-80">
+					<div className="px-2 text-left lg:cursor-pointer group rounded hover:text-black hover:bg-blue-900 hover:bg-opacity-80">
 						<li
 							className="py-3 flex justify-between items-center lg:pr-0  group "
 							onClick={() => {
