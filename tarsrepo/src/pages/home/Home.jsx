@@ -261,12 +261,14 @@ function Home() {
           <div className="text-center my-5 text-3xl font-bold text-[#d42e18]">
             Meet our Board Member
           </div>
+          <hr  className="h-[2px] w-[40%] mx-auto outline-none bg-red-500"/>
           <Carosule></Carosule>
         </section>
 
-        <div className="text-center mb-12 text-3xl font-bold text-[#d42e18]">
+        <div className="text-center mb-2 text-3xl font-bold text-[#d42e18]">
           Our Events
         </div>
+        <hr  className="h-[2px] w-[20%] mx-auto outline-none bg-red-500  mb-12"/>
         <div className="flex flex-col lg:flex-row gap-5 justify-center ">
           <div>
             <div class="flex justify-center">
