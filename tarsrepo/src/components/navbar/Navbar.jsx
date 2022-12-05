@@ -16,10 +16,10 @@ function Navbar() {
 		
 			<nav className=" bg-black shadow-2xl  lg:text-white text-white  sticky top-0 w-full z-50">
 				<div className="container mx-auto flex items-center font-semibold justify-between">
-					<div className="z-50  lg:w-auto w-full flex justify-between">
+					<div className="z-50  lg:w-auto w-full flex justify-between items-center">
 						<img src={Logo} alt="logo" className="lg:cursor-pointer h-20" />
 						<div className="text-3xl lg:hidden" onClick={() => setOpen(!open)}>
-							{open ? <CloseIcon className="text-black" /> : <MenuIcon className="text-black" />}
+							{open ? <CloseIcon className="text-white" /> : <MenuIcon className="text-white" />}
 						</div>
 					</div>
 					{/* <ul className="lg:flex hidden items-center gap-3 font-[Poppins] ">
@@ -50,7 +50,7 @@ function Navbar() {
 					{/* Mobile nav */}
 					<ul
 						className={`
-        lg:hidden bg-white fixed w-full top-20 overflow-y-auto bottom-0 py-5 pl-4
+        lg:hidden bg-black fixed w-full top-20 overflow-y-auto bottom-0 py-5 pl-4
         duration-500 ${open ? 'left-0' : 'left-[-100%]'}
         `}
 					>
